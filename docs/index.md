@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Innovation Insight for Microservices
 
-You can use the [editor on GitHub](https://github.com/tran-temple/CIS-4330-Microservices-Blog/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+According to Gartner, "Microservices enable unprecedented agility and scalability, but the architecture causes significant cultural disruption. Application leaders should understand this new design paradigm, its prerequisites and its disruptive impact before determining where and when to use it — if at all."
 
 ### Markdown
 
