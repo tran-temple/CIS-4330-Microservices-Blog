@@ -1,41 +1,8 @@
-## Innovation Insight for Microservices
+## **Innovation Insight for Microservices**
 
 According to Gartner, "Microservices enable unprecedented agility and scalability, but the architecture causes significant cultural disruption. Application leaders should understand this new design paradigm, its prerequisites and its disruptive impact before determining where and when to use it — if at all."
 
-A microservice is a tightly scoped, strongly encapsulated, loosely coupled, independently
-deployable and independently scalable application component. Microservices architecture applies
-service-oriented architecture (SOA) and domain-driven design (DDD — see Note 1) principles to
-deliver distributed applications. MSA has three core objectives: development agility, deployment
-flexibility and precise scalability.
+"A microservice is a tightly scoped, strongly encapsulated, loosely coupled, independently deployable and independently scalable application component. Microservices architecture applies service-oriented architecture (SOA) and domain-driven design (DDD — see Note 1) principles to deliver distributed applications. MSA has three core objectives: development agility, deployment flexibility and precise scalability."
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tran-temple/CIS-4330-Microservices-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
